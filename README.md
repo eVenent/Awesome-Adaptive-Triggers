@@ -57,8 +57,9 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 ## Tools
 #### Free
 - [DualSenseY v2](https://github.com/WujekFoliarz/DualSenseY-v2) - Supports Resistance Levels configuration and DSX mods.
+- [Special K](https://github.com/SpecialKO) - Supports Impulse Triggers to Adaptive Triggers conversion.
 - [Steam Input](https://store.steampowered.com/about/) - Steam has integrated functionality to enable adaptive trigger effects, provided the game supports it or the user configures it.
-> ##### *Abandoned*
+> ##### *Free but Abandoned*
 - [DualSenseX 1.4.9](https://github.com/Paliverse/DualSenseX) - Supports Resistance Levels configuration and DSX mods.
 - [DualSenseY 6.2](https://github.com/WujekFoliarz/DualSenseY) - Supports Resistance Levels configuration and DSX mods.
 #### Premium
