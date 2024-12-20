@@ -51,6 +51,7 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 ## Tools
 #### Free
 - [DualSenseY v2](https://github.com/WujekFoliarz/DualSenseY-v2) - Supports Resistance Levels configuration and DSX mods.
+- [PCXSense](https://github.com/Denellyne/PCXSense) - Gamecube Triggers (Triggers with Dolphin Emulator) and Nintendo Switch Triggers (Triggers with Yuzu and Cemu Emulators).
 - [Special K](https://github.com/SpecialKO) - Supports Impulse Triggers to Adaptive Triggers conversion.
 - [Steam Input](https://store.steampowered.com/about/) - Steam has integrated functionality to enable adaptive trigger effects, provided the game supports it or the user configures it.
 > ##### *Free but Abandoned*
@@ -59,6 +60,13 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 #### Premium
 - [DSX](https://store.steampowered.com/app/1812620/DSX/) - Supports Resistance Levels configuration and DSX mods.
 - [reWASD](https://rewasd.com) - ReWASD allows to configure Trigger Resistance Profiles and set three activation thresholds for different actions.
+
+## API
+- [DualSense on Windows](https://github.com/Ohjurot/DualSense-Windows) - Windows API for the PS5 DualSense controller.
+- [DualSense-Windows](https://github.com/mattdevv/DualSense-Windows) - Windows API for the PS5 DualSense controller.
+
+## Information
+- [Game Controller Collective Wiki](https://controllers.fandom.com/wiki/Sony_DualSense)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
