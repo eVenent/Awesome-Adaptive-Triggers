@@ -8,14 +8,14 @@ Feel free to **contribute** / **star** / **fork** / **pull request**. Any **reco
 >
 > Wiki Link: [DualSense #Adaptive Triggers](https://www.pcgamingwiki.com/wiki/Controller:DualSense#Games_with_adaptive_trigger_support)
 
-## How They Work
+### How They Work
 Adaptive triggers adjust their tension dynamically based on the game. The controller's software and hardware interact to create resistance that corresponds to the in-game context. For example:
 
 - **Drawing a Bowstring**: The resistance increases as you pull the trigger, mimicking the tension of a bowstring.
 - **Shooting a Gun**: The trigger may "lock up" or provide a jolt to simulate recoil or jamming.
 - **Driving Over Different Surfaces**: The trigger resistance might change to reflect the type of terrain, like smooth resistance on asphalt and a bumpy sensation on gravel.
 
-## Key Benefits
+### Key Benefits
 - **Enhanced Immersion**: Players feel more connected to the game through realistic tactile feedback.
 - **Contextual Feedback**: Different levels of resistance add a layer of gameplay depth and realism.
 - **Game-Specific Integration**: Developers can customize trigger behavior for specific game actions, making each title unique.
