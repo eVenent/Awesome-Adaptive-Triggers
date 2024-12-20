@@ -31,14 +31,19 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [DiRT Rally](https://github.com/cosmii02/RacingDSX)
 - [DiRT Rally 2](https://github.com/firelight322/dr2ds)
 - [DiRT Rally 2](https://github.com/cosmii02/RacingDSX)
-- [Euro Truck Simulator 2 (Steam)](https://github.com/josealissonbr/DualSenseAT/releases)
+- [Duck Game](https://steamcommunity.com/sharedfiles/filedetails/?id=2654985616)
+- [Dying Light](https://github.com/WujekFoliarz/Dying-Light-1-DUALSENSE-MOD)
+- [Euro Truck Simulator 2 (Steam)](https://github.com/josealissonbr/DualSenseAT/wiki/Tutorial-for-Euro-Truck-Simulator-2)
 - [Fallout 4](https://www.nexusmods.com/fallout4/mods/62113/)
 - [Forza Horizon 4](https://github.com/cosmii02/RacingDSX)
 - [Forza Horizon 5](https://github.com/cosmii02/RacingDSX)
 - [Forza Motorsport 7](https://github.com/cosmii02/RacingDSX)
 - [Forza Motorsport 8](https://github.com/cosmii02/RacingDSX)
-- [God Of War](https://github.com/josealissonbr/DualSenseAT/releases)
+- [God Of War](https://www.nexusmods.com/godofwar/mods/145)
 - [Grand Theft Auto V](https://github.com/Killface1980/DualSense4Rockstar)
+- [Grand Theft Auto V](https://github.com/zelmer69/dualsense4GTA5/)
+- [Half-Life: Alyx](https://github.com/WujekFoliarz/HLA-NoVR-DualSense)
+- [Metal Gear Solid V: Ground Zeroes](https://github.com/WujekFoliarz/MGSV-Ground-Zeros-DualSenseMOD)
 - [RaceRoom](https://www.overtake.gg/downloads/race-element.50578/)
 - [Red Dead Redemption 2](https://github.com/Killface1980/DualSense4Rockstar)
 - [Red Dead Redemption 2](https://www.nexusmods.com/reddeadredemption2/mods/1472)
@@ -67,7 +72,7 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 
 ## Demo
 - [DualSenseSupport](https://github.com/Mxater/DualSenseSupport) - Preliminar support for DualSense Haptic.
-- 
+
 ## Information
 - [Game Controller Collective Wiki](https://controllers.fandom.com/wiki/Sony_DualSense)
 
