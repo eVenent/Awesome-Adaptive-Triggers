@@ -1,22 +1,9 @@
-<h1 align="center">AwesomeAT</h1>
-<h3 align="center"></h3>
-</p>
-</p>
-  <p align="center">
-  <p align="center">
-
-     
+<h1 align="center">Awesome Adaptive Triggers</h1>  
 <div align="center">
-    
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 </div>
-
-<h1 align="center"></h1>
-</p>
-</p>
-
-<img src="https://github.com/josealissonbr/DualSenseAT/blob/main/screenshots/v0.1.0.2.png?raw=true" align="center" />
 
 # About
 > Adaptive triggers are a feature in modern gaming controllers, most notably in the PlayStation DualSense controller for the PlayStation 5 (PS5). They use built-in motors to provide variable levels of resistance and feedback on the controller's triggers (L2 and R2 buttons). This feature enhances immersion in gameplay by simulating the physical sensations of in-game actions.
