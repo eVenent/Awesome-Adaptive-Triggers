@@ -28,14 +28,14 @@ This list is a collection of tools, projects, images and resources conforming to
 Feel free to **contribute** / **star** / **fork** / **pull request**. Any **recommendations** and **suggestions** are welcome.
 
 ## **Supported Games:**
-- Euro Truck Simulator 2 (Steam)
-- God Of War
-- Grand Theft Auto V
-- Rocket League
-- Death Stranding
-- Resident Evil 5 (Steam)
-- Resident Evil 4
-- Skyrim Special Edition (Steam)
+- [Euro Truck Simulator 2 (Steam)](https://github.com/josealissonbr/DualSenseAT/releases)
+- [God Of War](https://github.com/josealissonbr/DualSenseAT/releases)
+- [Grand Theft Auto V](https://github.com/Killface1980/DualSense4Rockstar)
+- [Rocket League](https://github.com/josealissonbr/DualSenseAT/releases)
+- [Death Stranding](https://github.com/josealissonbr/DualSenseAT/releases)
+- [Resident Evil 5 (Steam)](https://github.com/josealissonbr/DualSenseAT/releases)
+- [Resident Evil 4](https://github.com/josealissonbr/DualSenseAT/releases)
+- [Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/66165)
 
 ## **Requirements to add games to project**
 - Project need to be OpenSource.
