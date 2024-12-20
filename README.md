@@ -1,18 +1,12 @@
-<h1 align="center">Awesome Adaptive Triggers</h1>  
-<div align="center">
+# Awesome Adaptive Triggers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+>This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+Feel free to **contribute** / **star** / **fork** / **pull request**. Any **recommendations** and **suggestions** are welcome.
 
-</div>
-
-# About
+## About
 > Adaptive triggers are a feature in modern gaming controllers, most notably in the PlayStation DualSense controller for the PlayStation 5 (PS5). They use built-in motors to provide variable levels of resistance and feedback on the controller's triggers (L2 and R2 buttons). This feature enhances immersion in gameplay by simulating the physical sensations of in-game actions.
 >
 > Wiki Link: [DualSense #Adaptive Triggers](https://www.pcgamingwiki.com/wiki/Controller:DualSense#Games_with_adaptive_trigger_support)
-
-This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
-
-Feel free to **contribute** / **star** / **fork** / **pull request**. Any **recommendations** and **suggestions** are welcome.
 
 ## How They Work
 Adaptive triggers adjust their tension dynamically based on the game. The controller's software and hardware interact to create resistance that corresponds to the in-game context. For example:
