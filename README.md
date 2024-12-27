@@ -70,6 +70,8 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 ## API
 - [DualSense on Windows](https://github.com/Ohjurot/DualSense-Windows) - Windows API for the PS5 DualSense controller.
 - [DualSense-Windows](https://github.com/mattdevv/DualSense-Windows) - Windows API for the PS5 DualSense controller.
+- [WujLibPad](https://github.com/WujekFoliarz/WujLibPad) - Simple yet advanced DualSense library
+- [Wujek-Dualsense-API](https://github.com/WujekFoliarz/Wujek-Dualsense-API) - Simple C# API for Sony's Dualsense Controller
 
 ## Demo
 - [DualSenseSupport](https://github.com/Mxater/DualSenseSupport) - Preliminar support for DualSense Haptic.
