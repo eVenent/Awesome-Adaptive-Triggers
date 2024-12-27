@@ -56,6 +56,7 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 ## Tools
 #### Free
 - [DualSenseY v2](https://github.com/WujekFoliarz/DualSenseY-v2) - Supports Resistance Levels configuration and DSX mods.
+- [JoyShockMapper](https://github.com/Electronicks/JoyShockMapper) - Configuration for OFFSET/RANGE and presets for BOW, RESISTANCE, GALLOPING, SEMI_AUTOMATIC, AUTOMATIC, MACHINE.
 - [PCXSense](https://github.com/Denellyne/PCXSense) - Gamecube Triggers (Triggers with Dolphin Emulator) and Nintendo Switch Triggers (Triggers with Yuzu and Cemu Emulators).
 - [Special K](https://github.com/SpecialKO) - Supports Impulse Triggers to Adaptive Triggers conversion.
 - [Steam Input](https://store.steampowered.com/about/) - Steam has integrated functionality to enable adaptive trigger effects, provided the game supports it or the user configures it.
@@ -74,6 +75,7 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [DualSenseSupport](https://github.com/Mxater/DualSenseSupport) - Preliminar support for DualSense Haptic.
 
 ## Information
+- [TriggerEffectGenerator.cs](https://gist.github.com/Nielk1/6d54cc2c00d2201ccb8c2720ad7538db) - Factories for all DualSense trigger effects
 - [Game Controller Collective Wiki](https://controllers.fandom.com/wiki/Sony_DualSense)
 
 ## License
