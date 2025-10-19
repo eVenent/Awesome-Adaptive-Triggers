@@ -22,10 +22,13 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 
 ## Supported Games:
 - [Art Of Rally](https://github.com/Theaninova/ArtOfRallyDSX)
-- [Assetto Corsa](https://www.overtake.gg/downloads/race-element.50578/)
-- [Assetto Corsa Competizione](https://www.overtake.gg/downloads/race-element.50578/)
+- [Assetto Corsa](https://github.com/RiddleTime/Race-Element)
+- [Assetto Corsa Competizione](https://github.com/RiddleTime/Race-Element)
+- [Assetto Corsa EVO](https://github.com/RiddleTime/Race-Element)
 - [BeamNG.Drive](https://www.beamng.com/resources/dsx-dualsense-adaptive-triggers.28759/)
+- [BeamNG.Drive](https://github.com/faddix/BeamNG_DualSense)
 - [Cactus Cowboy: Desert Warfare](https://store.steampowered.com/app/2554800/Cactus_Cowboy__Desert_Warfare/)
+- [Control Ultimate Edition](https://www.nexusmods.com/control/mods/108)
 - [Cyberpunk 2077](https://www.nexusmods.com/cyberpunk2077/mods/4156?tab=description)
 - [Death Stranding](https://github.com/josealissonbr/DualSenseAT/releases)
 - [DiRT Rally](https://github.com/firelight322/dr2ds)
@@ -38,6 +41,7 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [Fallout 4](https://www.nexusmods.com/fallout4/mods/62113/)
 - [Forza Horizon 4](https://github.com/cosmii02/RacingDSX)
 - [Forza Horizon 5](https://github.com/cosmii02/RacingDSX)
+- [Forza Horizon 5](https://github.com/RiddleTime/Race-Element)
 - [Forza Motorsport 7](https://github.com/cosmii02/RacingDSX)
 - [Forza Motorsport 8](https://github.com/cosmii02/RacingDSX)
 - [God Of War](https://www.nexusmods.com/godofwar/mods/145)
@@ -55,6 +59,7 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [Resident Evil 5 (Steam)](https://github.com/josealissonbr/DualSenseAT/releases)
 - [Rocket League](https://github.com/josealissonbr/DualSenseAT/releases)
 - [The Elder Scrolls V: Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/66165)
+- [Tomb Raider: Game of the Year Edition](https://www.nexusmods.com/tombraider2013/mods/125)
   
 » [List of games that support natively PlayStation adaptive triggers](https://www.pcgamingwiki.com/wiki/List_of_games_that_support_PlayStation_adaptive_triggers)
 
