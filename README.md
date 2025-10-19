@@ -27,7 +27,7 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [BeamNG.Drive](https://www.beamng.com/resources/dsx-dualsense-adaptive-triggers.28759/)
 - [Cactus Cowboy: Desert Warfare](https://store.steampowered.com/app/2554800/Cactus_Cowboy__Desert_Warfare/)
 - [Cyberpunk 2077](https://www.nexusmods.com/cyberpunk2077/mods/4156?tab=description)
-- [Death Stranding](https://github.com/josealissonbr/DualSenseAT/releases)4
+- [Death Stranding](https://github.com/josealissonbr/DualSenseAT/releases)
 - [DiRT Rally](https://github.com/firelight322/dr2ds)
 - [DiRT Rally](https://github.com/cosmii02/RacingDSX)
 - [DiRT Rally 2](https://github.com/firelight322/dr2ds)
