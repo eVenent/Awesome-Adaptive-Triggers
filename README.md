@@ -27,6 +27,7 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [BeamNG.Drive](https://www.beamng.com/resources/dsx-dualsense-adaptive-triggers.28759/)
 - [Cactus Cowboy: Desert Warfare](https://store.steampowered.com/app/2554800/Cactus_Cowboy__Desert_Warfare/)
 - [Cyberpunk 2077](https://www.nexusmods.com/cyberpunk2077/mods/4156?tab=description)
+- [Death Stranding](https://github.com/josealissonbr/DualSenseAT/releases)
 - [DiRT Rally](https://github.com/firelight322/dr2ds)
 - [DiRT Rally](https://github.com/cosmii02/RacingDSX)
 - [DiRT Rally 2](https://github.com/firelight322/dr2ds)
@@ -40,6 +41,9 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [Forza Motorsport 7](https://github.com/cosmii02/RacingDSX)
 - [Forza Motorsport 8](https://github.com/cosmii02/RacingDSX)
 - [God Of War](https://www.nexusmods.com/godofwar/mods/145)
+- [Grand Theft Auto III](https://github.com/theGENreel/GTASense)
+- [Grand Theft Auto: Vice City](https://github.com/theGENreel/GTASense)
+- [Grand Theft Auto: San Andreas](https://github.com/theGENreel/GTASense)
 - [Grand Theft Auto V](https://github.com/Killface1980/DualSense4Rockstar)
 - [Grand Theft Auto V](https://github.com/zelmer69/dualsense4GTA5/)
 - [Half-Life: Alyx](https://github.com/WujekFoliarz/HLA-NoVR-DualSense)
@@ -47,11 +51,12 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [RaceRoom](https://www.overtake.gg/downloads/race-element.50578/)
 - [Red Dead Redemption 2](https://github.com/Killface1980/DualSense4Rockstar)
 - [Red Dead Redemption 2](https://www.nexusmods.com/reddeadredemption2/mods/1472)
-- [Rocket League](https://github.com/josealissonbr/DualSenseAT/releases)
-- [Death Stranding](https://github.com/josealissonbr/DualSenseAT/releases)
-- [Resident Evil 5 (Steam)](https://github.com/josealissonbr/DualSenseAT/releases)
 - [Resident Evil 4](https://github.com/josealissonbr/DualSenseAT/releases)
-- [Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/66165)
+- [Resident Evil 5 (Steam)](https://github.com/josealissonbr/DualSenseAT/releases)
+- [Rocket League](https://github.com/josealissonbr/DualSenseAT/releases)
+- [The Elder Scrolls V: Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/66165)
+  
+» [List of games that support natively PlayStation adaptive triggers](https://www.pcgamingwiki.com/wiki/List_of_games_that_support_PlayStation_adaptive_triggers)
 
 ## Tools
 #### Free
@@ -70,7 +75,7 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 ## API
 - [DualSense on Windows](https://github.com/Ohjurot/DualSense-Windows) - Windows API for the PS5 DualSense controller.
 - [DualSense-Windows](https://github.com/mattdevv/DualSense-Windows) - Windows API for the PS5 DualSense controller.
-- [duaLib](https://github.com/WujekFoliarz/duaLib) - Open source version of libScePad
+- [duaLib](https://github.com/WujekFoliarz/duaLib) - Open source version of libScePad.
 
 ## Demo
 - [DualSenseSupport](https://github.com/Mxater/DualSenseSupport) - Preliminar support for DualSense Haptic.
