@@ -1,37 +1,42 @@
 # Adaptive Triggers DB
 # Source: https://github.com/eVenent/Awesome-Adaptive-Triggers
 
-Art Of Rally,aor.exe,https://github.com/Theaninova/ArtOfRallyDSX
-Assetto Corsa,acs.exe,https://www.overtake.gg/downloads/race-element.50578/
-Assetto Corsa Competizione,ACC.exe,https://www.overtake.gg/downloads/race-element.50578/
-BeamNG.Drive,BeamNG.drive.x64.exe,https://www.beamng.com/resources/dsx-dualsense-adaptive-triggers.28759/
-Cactus Cowboy: Desert Warfare,DesertWarfare.exe,https://store.steampowered.com/app/2554800/Cactus_Cowboy__Desert_Warfare/
-Cyberpunk 2077,Cyberpunk2077.exe,https://www.nexusmods.com/cyberpunk2077/mods/4156?tab=description
-Death Stranding,ds.exe,https://github.com/josealissonbr/DualSenseAT/releases
-DiRT Rally,drt.exe,https://github.com/firelight322/dr2ds
-DiRT Rally,drt.exe,https://github.com/cosmii02/RacingDSX
+Art Of Rally,aor.exe,https://github.com/Theaninova/ArtOfRallyDSX,Art of Rally Mod,Theaninova
+Assetto Corsa,acs.exe,https://github.com/RiddleTime/Race-Element,Race-Element (AC),Race-Element
+Assetto Corsa Competizione,ACC.exe,https://github.com/RiddleTime/Race-Element,Race-Element (ACC),Race-Element
+Assetto Corsa EVO,AssettoCorsaEVO.exe,https://github.com/RiddleTime/Race-Element,Race-Element (AC EVO),Race-Element
+BeamNG.Drive,BeamNG.drive.x64.exe,https://www.beamng.com/resources/dsx-dualsense-adaptive-triggers.28759/,BeamNG.Drive Mod,CBeTHaX
+BeamNG.Drive,BeamNG.drive.x64.exe,https://github.com/faddix/BeamNG_DualSense,BeamNG.Drive_DualSense,Faddix
+Cactus Cowboy: Desert Warfare,DesertWarfare.exe,https://store.steampowered.com/app/2554800/Cactus_Cowboy__Desert_Warfare/,Cactus Cowboy: Desert Warfare Mod,Cactus VR Studios
+Control Ultimate Edition,Control_DX11.exe;Control_DX12.exe,https://www.nexusmods.com/control/mods/108,Control DualSense Mod,Thanos Petsas
+Cyberpunk 2077,Cyberpunk2077.exe,https://www.nexusmods.com/cyberpunk2077/mods/4156?tab=description,Cyberpunk 2077 Enhanced DualSense Support,Limai
+Death Stranding,ds.exe,https://github.com/josealissonbr/DualSenseAT/releases,DualSense AT,DualSense AT
+DiRT Rally,drt.exe,https://github.com/firelight322/dr2ds,dr2ds,firelight322
+DiRT Rally,drt.exe,https://github.com/cosmii02/RacingDSX,RacingDSX,cosmii02
 DiRT Rally 2.0,dirtrally2.exe,https://github.com/firelight322/dr2ds
-DiRT Rally 2.0,dirtrally2.exe,https://github.com/cosmii02/RacingDSX
-Duck Game,DuckGame.exe,https://steamcommunity.com/sharedfiles/filedetails/?id=2654985616
-Dying Light,DyingLightGame.exe,https://github.com/WujekFoliarz/Dying-Light-1-DUALSENSE-MOD
-Euro Truck Simulator 2 (Steam version),eurotrucks2.exe,https://github.com/josealissonbr/DualSenseAT/wiki/Tutorial-for-Euro-Truck-Simulator-2
-Fallout 4,Fallout4.exe,https://www.nexusmods.com/fallout4/mods/62113/
-Forza Horizon 4,ForzaHorizon4.exe,https://github.com/cosmii02/RacingDSX
-Forza Horizon 5,ForzaHorizon5.exe,https://github.com/cosmii02/RacingDSX
-Forza Motorsport 7,forzamotorsport7.exe,https://github.com/cosmii02/RacingDSX
-Forza Motorsport 8,forza_steamworks_release_final.exe,https://github.com/cosmii02/RacingDSX
-God Of War,GodOfWar.exe,https://www.nexusmods.com/godofwar/mods/145
-Grand Theft Auto III,gta3.exe,https://github.com/theGENreel/GTASense
-Grand Theft Auto: Vice City,gta-vc.exe,https://github.com/theGENreel/GTASense
-Grand Theft Auto: San Andreas,gta_sa.exe,https://github.com/theGENreel/GTASense
-Grand Theft Auto V,gta5.exe,https://github.com/Killface1980/DualSense4Rockstar
-Grand Theft Auto V,gta5.exe,https://github.com/zelmer69/dualsense4GTA5/
-Half-Life: Alyx,hlvr.exe,https://github.com/WujekFoliarz/HLA-NoVR-DualSense
-Metal Gear Solid V: Ground Zeroes,MgsGroundZeroes.exe,https://github.com/WujekFoliarz/MGSV-Ground-Zeros-DualSenseMOD
-RaceRoom,RRRE.exe,https://www.overtake.gg/downloads/race-element.50578/
-Red Dead Redemption 2,RDR2.exe,https://github.com/Killface1980/DualSense4Rockstar
-Red Dead Redemption 2,RDR2.exe,https://www.nexusmods.com/reddeadredemption2/mods/1472
-Resident Evil 4,bio4.exe,https://github.com/josealissonbr/DualSenseAT/releases
-Resident Evil 5 (Steam),Launcher.exe,https://github.com/josealissonbr/DualSenseAT/releases
-Rocket League,RocketLeague.exe,https://github.com/josealissonbr/DualSenseAT/releases
-The Elder Scrolls V: Skyrim Special Edition,SkyrimSE.exe,https://www.nexusmods.com/skyrimspecialedition/mods/66165
+DiRT Rally 2.0,dirtrally2.exe,https://github.com/cosmii02/RacingDSX,RacingDSX,cosmii02
+Duck Game,DuckGame.exe,https://steamcommunity.com/sharedfiles/filedetails/?id=2654985616,Duck Game Mod,Marcus Jensen
+Dying Light,DyingLightGame.exe,https://github.com/WujekFoliarz/Dying-Light-1-DUALSENSE-MOD,Dying Light 1 DS Mod,WujekFoliarz
+Euro Truck Simulator 2 (Steam version),eurotrucks2.exe,https://github.com/josealissonbr/DualSenseAT/wiki/Tutorial-for-Euro-Truck-Simulator-2,DualSense AT,DualSense AT
+Fallout 4,Fallout4.exe,https://www.nexusmods.com/fallout4/mods/62113/,Fallout 4 Mod,dvize404
+Forza Horizon 4,ForzaHorizon4.exe,https://github.com/cosmii02/RacingDSX,RacingDSX,cosmii02
+Forza Horizon 5,ForzaHorizon5.exe,https://github.com/cosmii02/RacingDSX,RacingDSX,cosmii02
+Forza Horizon 5,ForzaHorizon5.exe,https://github.com/RiddleTime/Race-Element,Race-Element (FH5),Race-Element
+Forza Motorsport 7,forzamotorsport7.exe,https://github.com/cosmii02/RacingDSX,RacingDSX,cosmii02
+Forza Motorsport 8,forza_steamworks_release_final.exe,https://github.com/cosmii02/RacingDSX,RacingDSX,cosmii02
+God Of War,GodOfWar.exe,https://www.nexusmods.com/godofwar/mods/145,God Of War Mod,Jose Alisson
+Grand Theft Auto III,gta3.exe,https://github.com/theGENreel/GTASense,GTA Sense,theGENreel
+Grand Theft Auto: Vice City,gta-vc.exe,https://github.com/theGENreel/GTASense,GTA Sense,theGENreel
+Grand Theft Auto: San Andreas,gta_sa.exe,https://github.com/theGENreel/GTASense,GTA Sense,theGENreel
+Grand Theft Auto V,gta5.exe,https://github.com/Killface1980/DualSense4Rockstar,DualSense4Rockstar,tommargar
+Grand Theft Auto V,gta5.exe,https://github.com/zelmer69/dualsense4GTA5/,dualsense4GTA5,zelmer69
+Half-Life: Alyx,hlvr.exe,https://github.com/WujekFoliarz/HLA-NoVR-DualSense,HLA NoVR DualSense,WujekFoliarz
+Metal Gear Solid V: Ground Zeroes,MgsGroundZeroes.exe,https://github.com/WujekFoliarz/MGSV-Ground-Zeros-DualSenseMOD,MGSV Ground Zeros DS MOD,WujekFoliarz
+RaceRoom,RRRE.exe,https://www.overtake.gg/downloads/race-element.50578/,Race-Element (RR),Race-Element
+Red Dead Redemption 2,RDR2.exe,https://github.com/Killface1980/DualSense4Rockstar,DualSense4Rockstar,tommargar
+Red Dead Redemption 2,RDR2.exe,https://www.nexusmods.com/reddeadredemption2/mods/1472,ScriptHookRDR2 V2,Shtivi
+Resident Evil 4,bio4.exe,https://github.com/josealissonbr/DualSenseAT/releases,DualSense AT,DualSense AT
+Resident Evil 5 (Steam),Launcher.exe,https://github.com/josealissonbr/DualSenseAT/releases,DualSense AT,DualSense AT
+Rocket League,RocketLeague.exe,https://github.com/josealissonbr/DualSenseAT/releases,DualSense AT,DualSense AT
+The Elder Scrolls V: Skyrim Special Edition,SkyrimSE.exe,https://www.nexusmods.com/skyrimspecialedition/mods/66165,Skyrim DS AT Mod,dvize404
+Tomb Raider: Game of the Year Edition,TombRaider.exe,https://www.nexusmods.com/tombraider2013/mods/125,Tomb Raider DualSense Mod,Jexar
