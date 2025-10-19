@@ -1,9 +1,0 @@
-bin/
-.vs/*
-obj/
-.vs/DualSenseAT/v17/.suo
-*.cache
-obj/Debug/DualSenseAT.MainWindow.resources
-*.resources
-*.vsidx
-*.vsidx
