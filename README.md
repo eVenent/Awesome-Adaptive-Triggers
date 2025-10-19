@@ -73,9 +73,9 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [reWASD](https://rewasd.com) - ReWASD allows to configure Trigger Resistance Profiles and set three activation thresholds for different actions.
 
 ## API
+- [duaLib](https://github.com/WujekFoliarz/duaLib) - Open source version of libScePad.
 - [DualSense on Windows](https://github.com/Ohjurot/DualSense-Windows) - Windows API for the PS5 DualSense controller.
 - [DualSense-Windows](https://github.com/mattdevv/DualSense-Windows) - Windows API for the PS5 DualSense controller.
-- [duaLib](https://github.com/WujekFoliarz/duaLib) - Open source version of libScePad.
 
 ## Demo
 - [DualSenseSupport](https://github.com/Mxater/DualSenseSupport) - Preliminar support for DualSense Haptic.
