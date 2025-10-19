@@ -1,0 +1,16 @@
+# Adaptive Triggers DB
+# Source: https://github.com/eVenent/Awesome-Adaptive-Triggers
+
+Art Of Rally,aor.exe,https://github.com/Theaninova/ArtOfRallyDSX
+Assetto Corsa,acs.exe,https://www.overtake.gg/downloads/race-element.50578/
+Assetto Corsa Competizione,ACC.exe,https://www.overtake.gg/downloads/race-element.50578/
+BeamNG.Drive,BeamNG.drive.x64.exe,https://www.beamng.com/resources/dsx-dualsense-adaptive-triggers.28759/
+Cactus Cowboy: Desert Warfare,DesertWarfare.exe,https://store.steampowered.com/app/2554800/Cactus_Cowboy__Desert_Warfare/
+Cyberpunk 2077,Cyberpunk2077.exe,https://www.nexusmods.com/cyberpunk2077/mods/4156?tab=description
+Death Stranding,ds.exe,https://github.com/josealissonbr/DualSenseAT/releases
+DiRT Rally,drt.exe,https://github.com/firelight322/dr2ds
+DiRT Rally,drt.exe,https://github.com/cosmii02/RacingDSX
+DiRT Rally 2.0,dirtrally2.exe,https://github.com/firelight322/dr2ds
+DiRT Rally 2.0,dirtrally2.exe,https://github.com/cosmii02/RacingDSX
+Duck Game,DuckGame.exe,https://steamcommunity.com/sharedfiles/filedetails/?id=2654985616
+Dying Light,DyingLightGame.exe,https://github.com/WujekFoliarz/Dying-Light-1-DUALSENSE-MOD
