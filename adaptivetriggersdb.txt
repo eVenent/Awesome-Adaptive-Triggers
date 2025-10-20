@@ -14,7 +14,7 @@ Cyberpunk 2077,Cyberpunk2077.exe,https://www.nexusmods.com/cyberpunk2077/mods/41
 Death Stranding,ds.exe,https://github.com/josealissonbr/DualSenseAT/releases,DualSense AT,DualSense AT
 DiRT Rally,drt.exe,https://github.com/firelight322/dr2ds,dr2ds,firelight322
 DiRT Rally,drt.exe,https://github.com/cosmii02/RacingDSX,RacingDSX,cosmii02
-DiRT Rally 2.0,dirtrally2.exe,https://github.com/firelight322/dr2ds
+DiRT Rally 2.0,dirtrally2.exe,https://github.com/firelight322/dr2ds,DR2 DS,firelight322
 DiRT Rally 2.0,dirtrally2.exe,https://github.com/cosmii02/RacingDSX,RacingDSX,cosmii02
 Duck Game,DuckGame.exe,https://steamcommunity.com/sharedfiles/filedetails/?id=2654985616,Duck Game Mod,Marcus Jensen
 Dying Light,DyingLightGame.exe,https://github.com/WujekFoliarz/Dying-Light-1-DUALSENSE-MOD,Dying Light 1 DS Mod,WujekFoliarz
@@ -33,7 +33,7 @@ Grand Theft Auto V,gta5.exe,https://github.com/Killface1980/DualSense4Rockstar,D
 Grand Theft Auto V,gta5.exe,https://github.com/zelmer69/dualsense4GTA5/,dualsense4GTA5,zelmer69
 Half-Life: Alyx,hlvr.exe,https://github.com/WujekFoliarz/HLA-NoVR-DualSense,HLA NoVR DualSense,WujekFoliarz
 Metal Gear Solid V: Ground Zeroes,MgsGroundZeroes.exe,https://github.com/WujekFoliarz/MGSV-Ground-Zeros-DualSenseMOD,MGSV Ground Zeros DS MOD,WujekFoliarz
-RaceRoom,RRRE.exe,https://www.overtake.gg/downloads/race-element.50578/,Race-Element (RR),Race-Element
+RaceRoom,RRRE.exe,https://github.com/RiddleTime/Race-Element,Race-Element (RR),Race-Element
 Red Dead Redemption 2,RDR2.exe,https://github.com/Killface1980/DualSense4Rockstar,DualSense4Rockstar,tommargar
 Red Dead Redemption 2,RDR2.exe,https://www.nexusmods.com/reddeadredemption2/mods/1472,ScriptHookRDR2 V2,Shtivi
 Resident Evil 4,bio4.exe,https://github.com/josealissonbr/DualSenseAT/releases,DualSense AT,DualSense AT
