@@ -1,6 +1,7 @@
 # Adaptive Triggers DB
 # Source: https://github.com/eVenent/Awesome-Adaptive-Triggers
 
+#Game,Process;Process2,Link,Name,Author
 Art Of Rally,aor.exe,https://github.com/Theaninova/ArtOfRallyDSX,Art of Rally Mod,Theaninova
 Assetto Corsa,acs.exe,https://github.com/RiddleTime/Race-Element,Race-Element (AC),Race-Element
 Assetto Corsa Competizione,ACC.exe,https://github.com/RiddleTime/Race-Element,Race-Element (ACC),Race-Element
