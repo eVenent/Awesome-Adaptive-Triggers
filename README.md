@@ -8,16 +8,6 @@ Feel free to **contribute** / **star** / **fork** / **pull request**. Any **reco
 >
 > Wiki Link: [DualSense #Adaptive Triggers](https://www.pcgamingwiki.com/wiki/Controller:DualSense#Games_with_adaptive_trigger_support)
 
-## Devices
-| Controller | Console | Keyboard |
-| ------------- | ------------- | -- |
-| NeGcon | Nintendo DS | Wooting one |
-| Xbox OG | iPhone generations with 3D Touch | Wooting two |
-| DualShock 2 | Android devices with pressure touch| Razer Huntsman V2 Analog |
-| DualShock 3 | | Razer Huntsman Mini Analog |
-| Steam Deck | | Razer Tartarus Pro |
-| Steam Controller | | SteelSeries Apex Pro |
-
 ### How They Work
 Adaptive triggers adjust their tension dynamically based on the game. The controller's software and hardware interact to create resistance that corresponds to the in-game context. For example:
 
