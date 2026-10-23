@@ -37,8 +37,10 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [DiRT Rally 2](https://github.com/cosmii02/RacingDSX)
 - [Duck Game](https://steamcommunity.com/sharedfiles/filedetails/?id=2654985616)
 - [Dying Light](https://github.com/WujekFoliarz/Dying-Light-1-DUALSENSE-MOD)
+- [Escape from Tarkov](https://github.com/dvize/TarkovDSX)
 - [Euro Truck Simulator 2 (Steam)](https://github.com/josealissonbr/DualSenseAT/wiki/Tutorial-for-Euro-Truck-Simulator-2)
-- [Fallout 4](https://www.nexusmods.com/fallout4/mods/62113/)
+- [Fallout 4](https://github.com/dvize/DSXFallout4)
+- [FH4, FH5, FM7](https://github.com/cosmii02/ForzaDSXlegacy)
 - [Forza Horizon 4](https://github.com/cosmii02/RacingDSX)
 - [Forza Horizon 5](https://github.com/cosmii02/RacingDSX)
 - [Forza Horizon 5](https://github.com/RiddleTime/Race-Element)
@@ -53,13 +55,15 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [Half-Life: Alyx](https://github.com/WujekFoliarz/HLA-NoVR-DualSense)
 - [Metal Gear Solid V: Ground Zeroes](https://github.com/WujekFoliarz/MGSV-Ground-Zeros-DualSenseMOD)
 - [RaceRoom](https://www.overtake.gg/downloads/race-element.50578/)
+- [Richard Burns Rally](https://github.com/aaronfang/RBR_Adaptive_Trigger)
 - [Red Dead Redemption 2](https://github.com/Killface1980/DualSense4Rockstar)
 - [Red Dead Redemption 2](https://www.nexusmods.com/reddeadredemption2/mods/1472)
 - [Resident Evil 4](https://github.com/josealissonbr/DualSenseAT/releases)
 - [Resident Evil 5 (Steam)](https://github.com/josealissonbr/DualSenseAT/releases)
 - [Rocket League](https://github.com/josealissonbr/DualSenseAT/releases)
-- [The Elder Scrolls V: Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/66165)
+- [The Elder Scrolls V: Skyrim Special Edition](https://github.com/dvize/DSXSkyrim-NG)
 - [Tomb Raider: Game of the Year Edition](https://www.nexusmods.com/tombraider2013/mods/125)
+- [Wreckfest 2](https://github.com/SYSTEMATI0N/WF2_DSX)
   
 » [List of games that support natively PlayStation adaptive triggers](https://www.pcgamingwiki.com/wiki/List_of_games_that_support_PlayStation_adaptive_triggers)
 
@@ -83,6 +87,10 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [duaLib](https://github.com/WujekFoliarz/duaLib) - Open source version of libScePad.
 - [DualSense on Windows](https://github.com/Ohjurot/DualSense-Windows) - Windows API for the PS5 DualSense controller.
 - [DualSense-Windows](https://github.com/mattdevv/DualSense-Windows) - Windows API for the PS5 DualSense controller.
+
+## Mods
+- [DSX++](https://github.com/tpetsas/DSXpp) - C++ client library for DualSense mods.
+- [DualSenseX-Support](https://github.com/Tio-Henry/DualSenseX-Support) - Godot engine plugin.
 
 ## Demo
 - [DualSenseSupport](https://github.com/Mxater/DualSenseSupport) - Preliminar support for DualSense Haptic.
