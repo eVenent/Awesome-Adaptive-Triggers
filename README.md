@@ -51,6 +51,7 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [Control Ultimate Edition](https://www.nexusmods.com/control/mods/108)
 - [Cyberpunk 2077](https://www.nexusmods.com/cyberpunk2077/mods/4156?tab=description)
 - [Death Stranding](https://github.com/josealissonbr/DualSenseAT/releases)
+- [Dusklight (The Legend of Zelda: Twilight Princess PC Port)](https://github.com/KevinX8/dusklight-dualsense-mod)
 - [DiRT Rally](https://github.com/firelight322/dr2ds)
 - [DiRT Rally](https://github.com/cosmii02/RacingDSX)
 - [DiRT Rally 2](https://github.com/firelight322/dr2ds)
