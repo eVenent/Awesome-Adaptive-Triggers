@@ -67,6 +67,7 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [Forza Motorsport 7](https://github.com/cosmii02/RacingDSX)
 - [Forza Motorsport 8](https://github.com/cosmii02/RacingDSX)
 - [God Of War](https://www.nexusmods.com/godofwar/mods/145)
+- [God Of War](https://github.com/SKULLSHOCK3R/ai-workflows/tree/gow-triggers)
 - [Grand Theft Auto III](https://github.com/theGENreel/GTASense)
 - [Grand Theft Auto: Vice City](https://github.com/theGENreel/GTASense)
 - [Grand Theft Auto: San Andreas](https://github.com/theGENreel/GTASense)
