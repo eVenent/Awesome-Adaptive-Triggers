@@ -3,6 +3,21 @@
 
 Feel free to **contribute** / **star** / **fork** / **pull request**. Any **recommendations** and **suggestions** are welcome.
 
+## Table of contents
+
+- [About](https://github.com/eVenent/Awesome-Adaptive-Triggers/#About)
+    - [How They Work](https://github.com/eVenent/Awesome-Adaptive-Triggers/#how-they-work)
+    - [Key Benefits](https://github.com/eVenent/Awesome-Adaptive-Triggers/#key-benefits)
+- [Supported Games](https://github.com/eVenent/Awesome-Adaptive-Triggers/#supported-games)
+- [Tools](https://github.com/eVenent/Awesome-Adaptive-Triggers/#tools)
+    - [Free](https://github.com/eVenent/Awesome-Adaptive-Triggers/#free)
+    - [Free but Abandoned](https://github.com/eVenent/Awesome-Adaptive-Triggers/#free-but-abandoned)
+    - [Premium](https://github.com/eVenent/Awesome-Adaptive-Triggers/#premium)
+- [API](https://github.com/eVenent/Awesome-Adaptive-Triggers/#api)
+- [Mods](https://github.com/eVenent/Awesome-Adaptive-Triggers/#mods)
+- [Demo](https://github.com/eVenent/Awesome-Adaptive-Triggers/#demo)
+- [Information](https://github.com/eVenent/Awesome-Adaptive-Triggers/#information)
+
 ## About
 > Adaptive triggers are a feature in modern gaming controllers, most notably in the PlayStation DualSense controller for the PlayStation 5 (PS5). They use built-in motors to provide variable levels of resistance and feedback on the controller's triggers (L2 and R2 buttons). This feature enhances immersion in gameplay by simulating the physical sensations of in-game actions.
 >
