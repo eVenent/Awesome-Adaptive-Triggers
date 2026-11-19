@@ -76,6 +76,7 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [Half-Life: Alyx](https://github.com/WujekFoliarz/HLA-NoVR-DualSense)
 - [Le Mans Ultimate](https://github.com/RiddleTime/Race-Element)
 - [Metal Gear Solid V: Ground Zeroes](https://github.com/WujekFoliarz/MGSV-Ground-Zeros-DualSenseMOD)
+- [Onimusha](https://github.com/AInine9/Onimusha-DualSense)
 - [Project Motor Racing](https://github.com/RiddleTime/Race-Element)
 - [RaceRoom](https://www.overtake.gg/downloads/race-element.50578/)
 - [rFactor 2](https://github.com/RiddleTime/Race-Element)
