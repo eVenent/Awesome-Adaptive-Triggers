@@ -90,6 +90,8 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [Rocket League](https://github.com/josealissonbr/DualSenseAT/releases)
 - [The Elder Scrolls V: Skyrim Special Edition](https://github.com/dvize/DSXSkyrim-NG)
 - [Tomb Raider: Game of the Year Edition](https://www.nexusmods.com/tombraider2013/mods/125)
+- [Tomb Raider: Rise of the Tomb Raider](https://www.nexusmods.com/riseofthetombraider/mods/240)
+- [Tomb Raider: Shadow of the Tomb Raider](https://www.nexusmods.com/shadowofthetombraider/mods/491)
 - [WRC Generations](https://github.com/RiddleTime/Race-Element)
 - [Wreckfest 2](https://github.com/SYSTEMATI0N/WF2_DSX)
   
