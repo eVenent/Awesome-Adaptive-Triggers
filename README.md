@@ -3,6 +3,8 @@
 
 Feel free to **contribute** / **star** / **fork** / **pull request**. Any **recommendations** and **suggestions** are welcome.
 
+--------------------
+
 ## Table of contents
 - [About](https://github.com/eVenent/Awesome-Adaptive-Triggers/#About)
     - [How They Work](https://github.com/eVenent/Awesome-Adaptive-Triggers/#how-they-work)
@@ -16,6 +18,8 @@ Feel free to **contribute** / **star** / **fork** / **pull request**. Any **reco
 - [Mods](https://github.com/eVenent/Awesome-Adaptive-Triggers/#mods)
 - [Demo](https://github.com/eVenent/Awesome-Adaptive-Triggers/#demo)
 - [Information](https://github.com/eVenent/Awesome-Adaptive-Triggers/#information)
+
+--------------------
 
 ## About
 > Adaptive triggers are a feature in modern gaming controllers, most notably in the PlayStation DualSense controller for the PlayStation 5 (PS5). They use built-in motors to provide variable levels of resistance and feedback on the controller's triggers (L2 and R2 buttons). This feature enhances immersion in gameplay by simulating the physical sensations of in-game actions.
@@ -33,6 +37,8 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - **Enhanced Immersion**: Players feel more connected to the game through realistic tactile feedback.
 - **Contextual Feedback**: Different levels of resistance add a layer of gameplay depth and realism.
 - **Game-Specific Integration**: Developers can customize trigger behavior for specific game actions, making each title unique.
+
+--------------------
 
 ## Supported Games:
 - [Art Of Rally](https://github.com/Theaninova/ArtOfRallyDSX)
@@ -81,6 +87,8 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
   
 » [List of games that support natively PlayStation adaptive triggers](https://www.pcgamingwiki.com/wiki/List_of_games_that_support_PlayStation_adaptive_triggers)
 
+--------------------
+
 ## Tools
 #### Free
 - [PadForge](https://github.com/hifihedgehog/PadForge) - Supports Impulse Triggers to Adaptive Triggers conversion, activates rumble for triggers and allows to configure Trigger Resistance Profiles including dual-stage triggers.
@@ -97,21 +105,31 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [DSX](https://store.steampowered.com/app/1812620/DSX/) - Supports Resistance Levels configuration and DSX mods.
 - [reWASD](https://rewasd.com) - ReWASD allows to configure Trigger Resistance Profiles and set three activation thresholds for different actions.
 
+--------------------
+
 ## API
 - [duaLib](https://github.com/WujekFoliarz/duaLib) - Open source version of libScePad.
 - [DualSense on Windows](https://github.com/Ohjurot/DualSense-Windows) - Windows API for the PS5 DualSense controller.
 - [DualSense-Windows](https://github.com/mattdevv/DualSense-Windows) - Windows API for the PS5 DualSense controller.
 
+--------------------
+
 ## Mods
 - [DSX++](https://github.com/tpetsas/DSXpp) - C++ client library for DualSense mods.
 - [DualSenseX-Support](https://github.com/Tio-Henry/DualSenseX-Support) - Godot engine plugin.
 
+--------------------
+
 ## Demo
 - [DualSenseSupport](https://github.com/Mxater/DualSenseSupport) - Preliminar support for DualSense Haptic.
+
+--------------------
 
 ## Information
 - [TriggerEffectGenerator.cs](https://gist.github.com/Nielk1/6d54cc2c00d2201ccb8c2720ad7538db) - Factories for all DualSense trigger effects
 - [Game Controller Collective Wiki](https://controllers.fandom.com/wiki/Sony_DualSense)
+
+--------------------
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
