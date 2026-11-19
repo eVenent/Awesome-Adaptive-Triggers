@@ -99,6 +99,7 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [PadForge](https://github.com/hifihedgehog/PadForge) - Supports Impulse Triggers to Adaptive Triggers conversion, activates rumble for triggers and allows to configure Trigger Resistance Profiles including dual-stage triggers.
 - [DS4Windows](https://github.com/Pav-Osmolski/DS4Windows) - Supports static adaptive trigger presets (Full Click and Rigid) via Trigger Lab, and adds a local translation layer for dynamic DSX game mods.
 - [DualSenseY v2](https://github.com/WujekFoliarz/DualSenseY-v2) - Supports Resistance Levels configuration and DSX mods.
+- [DSZ](https://github.com/MaximumFreak/dsz) - DSX mods support and Adaptive Triggers via Bluetooth. Configuration: resistance, weapon, vibration, slope, per-zone resistance and vibration (drag to paint), bow, galloping, machine, and named presets (Very soft to Rigid, GameCube click, Choppy, Vibrate pulse) built from those effects; live zone preview with the current pull.
 - [JoyShockMapper](https://github.com/Electronicks/JoyShockMapper) - Configuration for OFFSET/RANGE and presets for BOW, RESISTANCE, GALLOPING, SEMI_AUTOMATIC, AUTOMATIC, MACHINE.
 - [PCXSense](https://github.com/Denellyne/PCXSense) - Gamecube Triggers (Triggers with Dolphin Emulator) and Nintendo Switch Triggers (Triggers with Yuzu and Cemu Emulators).
 - [Special K](https://github.com/SpecialKO) - Supports Impulse Triggers to Adaptive Triggers conversion.
