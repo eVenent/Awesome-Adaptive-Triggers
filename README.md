@@ -4,7 +4,6 @@
 Feel free to **contribute** / **star** / **fork** / **pull request**. Any **recommendations** and **suggestions** are welcome.
 
 ## Table of contents
-
 - [About](https://github.com/eVenent/Awesome-Adaptive-Triggers/#About)
     - [How They Work](https://github.com/eVenent/Awesome-Adaptive-Triggers/#how-they-work)
     - [Key Benefits](https://github.com/eVenent/Awesome-Adaptive-Triggers/#key-benefits)
