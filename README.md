@@ -111,7 +111,8 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [Steam Input](https://store.steampowered.com/about/) - Steam has integrated functionality to enable adaptive trigger effects, provided the game supports it or the user configures it.
 - [ZerkSense5](https://github.com/florinp93/ZerkSense5) - DSX mods support and allows to use adaptive triggers via Bluetooth connection.
 - [MadSense](https://github.com/AlexGarciaMartin/MadSense) - DSX mods support.
-- [DS5 Untethered](https://github.com/Midzer00/ds5-untethered) DSX mods support and triggers strength modifiers.
+- [DS5 Untethered](https://github.com/Midzer00/ds5-untethered) - DSX mods support and triggers strength modifiers.
+- [ds5haptics](https://github.com/alvarezdanielroberto-droid/ds5haptics) - DSX mods.
 > ##### *Free but Abandoned*
 - [DualSenseX 1.4.9](https://github.com/Paliverse/DualSenseX) - Supports Resistance Levels configuration and DSX mods.
 - [DualSenseY 6.2](https://github.com/WujekFoliarz/DualSenseY) - Supports Resistance Levels configuration and DSX mods.
