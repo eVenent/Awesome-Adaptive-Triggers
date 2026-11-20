@@ -108,7 +108,7 @@ Adaptive triggers adjust their tension dynamically based on the game. The contro
 - [JoyShockMapper](https://github.com/Electronicks/JoyShockMapper) - Configuration for OFFSET/RANGE and presets for BOW, RESISTANCE, GALLOPING, SEMI_AUTOMATIC, AUTOMATIC, MACHINE.
 - [PCXSense](https://github.com/Denellyne/PCXSense) - Gamecube Triggers (Triggers with Dolphin Emulator) and Nintendo Switch Triggers (Triggers with Yuzu and Cemu Emulators).
 - [Special K](https://github.com/SpecialKO) - Supports Impulse Triggers to Adaptive Triggers conversion.
-- [Steam Input](https://store.steampowered.com/about/) - Steam has integrated functionality to enable adaptive trigger effects, provided the game supports it or the user configures it.
+- [Steam Input](https://partner.steamgames.com/doc/features/steam_controller) - Steam has integrated functionality to enable adaptive trigger effects, provided the game supports it or the user configures it.
 - [ZerkSense5](https://github.com/florinp93/ZerkSense5) - DSX mods support and allows to use adaptive triggers via Bluetooth connection.
 - [MadSense](https://github.com/AlexGarciaMartin/MadSense) - Supports Resistance Levels configuration and DSX mods.
 - [DS5 Untethered](https://github.com/Midzer00/ds5-untethered) - Supports Resistance Levels configuration and DSX mods.
