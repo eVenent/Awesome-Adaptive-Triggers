@@ -1,4 +1,4 @@
-# Awesome Adaptive Triggers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# [Awesome Adaptive Triggers](https://github.com/eVenent/Awesome-Adaptive-Triggers/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 >This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
 
 Feel free to **contribute** / **star** / **fork** / **pull request**. Any **recommendations** and **suggestions** are welcome.
@@ -6,18 +6,18 @@ Feel free to **contribute** / **star** / **fork** / **pull request**. Any **reco
 --------------------
 
 ## Table of contents
-- [About](https://github.com/eVenent/Awesome-Adaptive-Triggers/#About)
-    - [How They Work](https://github.com/eVenent/Awesome-Adaptive-Triggers/#how-they-work)
-    - [Key Benefits](https://github.com/eVenent/Awesome-Adaptive-Triggers/#key-benefits)
-- [Supported Games](https://github.com/eVenent/Awesome-Adaptive-Triggers/#supported-games)
-- [Tools](https://github.com/eVenent/Awesome-Adaptive-Triggers/#tools)
-    - [Free](https://github.com/eVenent/Awesome-Adaptive-Triggers/#free)
-    - [Free but Abandoned](https://github.com/eVenent/Awesome-Adaptive-Triggers/#free-but-abandoned)
-    - [Premium](https://github.com/eVenent/Awesome-Adaptive-Triggers/#premium)
-- [API](https://github.com/eVenent/Awesome-Adaptive-Triggers/#api)
-- [Mods](https://github.com/eVenent/Awesome-Adaptive-Triggers/#mods)
-- [Demo](https://github.com/eVenent/Awesome-Adaptive-Triggers/#demo)
-- [Information](https://github.com/eVenent/Awesome-Adaptive-Triggers/#information)
+- [About](#about)
+    - [How They Work](#how-they-work)
+    - [Key Benefits](#key-benefits)
+- [Supported Games](#supported-games)
+- [Tools](#tools)
+    - [Free](#free)
+    - [Free but Abandoned](#free-but-abandoned)
+    - [Premium](#premium)
+- [API](#api)
+- [Mods](#mods)
+- [Demo](#demo)
+- [Information](#information)
 
 --------------------
 
